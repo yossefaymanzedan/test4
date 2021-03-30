@@ -209,8 +209,8 @@ transform: translateY(-50px) translateX(-40px);
 #loader {
     display: block;
     position: relative;
-    left: 50%;
-    top: 30%;
+    left: 47%;
+    top: 40%;
     z-index: 1001;
 }
 .circle-big{
